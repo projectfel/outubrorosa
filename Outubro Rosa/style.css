@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+main{
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: pink;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#footer{
+    font-size: 15px;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}
+
+#logoGT{
+    width: 300px;
+    height: 120px;
+}
+
+#logo{
+    width: 120px;
+    height: 120px;
+}
+
+#img{
+    border: 1px;
+    border-radius: 15px;
+    box-shadow: 0 2px 5px 2px #00000020;
+    width: 70%;
+}
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    text-align: center;
+}
+
+strong{
+    color: rgba(255,129,229,255);
+}
+
+p{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 17px;
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 17px;
+}
+
+li{
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1{
+    border-bottom: 5px solid pink;
+    border-top: 5px solid pink;
+}
+
+.txtTutorialH2{
+    font-size: 30px;
+    background-color: rgba(255,129,229,255);;
+    border: 1px solid white;
+}
+
+.txtTutorial{
+    background-color: pink;
+    text-align: center;
+}
+
+#txtSintomas{
+    background-color: pink;
+}
+
+#autoExame{
+    width: 400px;
+    height: 400px;
+}
